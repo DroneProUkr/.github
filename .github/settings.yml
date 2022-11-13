@@ -16,26 +16,30 @@ labels:
     color: 336699
     description: "New feature or request"
   - name: devops
-    color: 336699
+    color: 5319E7
     description: "Automation, CI/CD, GitHub Apps, etc."
   - name: fix
-    color: CC0000
+    color: 0E8A16
     description: "Pull: bug fix"
   - name: feat
-    color: CC0000
+    color: 0052CC
     description: "Pull: feature"
   - name: refactor
-    color: CC0000
+    color: 226C50
     description: "Pull: code refactoring"
   - name: chore
-    color: CC0000
+    color: 000000
     description: "Pull: no production code change"
   - name: ci
-    color: CC0000
+    color: FBCA04
     description: "Pull: continuous integration"
   - name: perf
-    color: CC0000
+    color: E99695
     description: "Pull: performance"
+
+teams:
+  - name: admins
+    permission: admin
 
 branches:
   - name: main
