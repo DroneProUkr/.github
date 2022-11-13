@@ -13,6 +13,6 @@ labels: devops
 - [ ] Other
 
 ## Description
-<!-- Please, describedetails of your request. ->
+<!-- Please, describedetails of your request. -->
 
 Type your text here.
