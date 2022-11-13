@@ -7,34 +7,34 @@ repository:
 
 labels:
   - name: bug
-    color: CC0000
+    color: "#CC0000"
     description: "Something isn't working."
   - name: enhancement
-    color: A2EEEF
+    color: "#A2EEEF"
     description: "Сode refactoring"
   - name: request
-    color: 336699
+    color: "#336699"
     description: "New feature or request"
   - name: devops
-    color: 5319E7
+    color: "#5319E7"
     description: "Automation, CI/CD, GitHub Apps, etc."
   - name: fix
-    color: 0E8A16
+    color: "#0E8A16"
     description: "Pull: bug fix"
   - name: feat
-    color: 0052CC
+    color: "#0052CC"
     description: "Pull: feature"
   - name: refactor
-    color: 226C50
+    color: "#226C50"
     description: "Pull: code refactoring"
   - name: chore
-    color: 000000
+    color: "#000000"
     description: "Pull: no production code change"
   - name: ci
-    color: FBCA04
+    color: "#FBCA04"
     description: "Pull: continuous integration"
   - name: perf
-    color: E99695
+    color: "#E99695"
     description: "Pull: performance"
 
 teams:
