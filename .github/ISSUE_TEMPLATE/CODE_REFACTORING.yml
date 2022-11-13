@@ -1,0 +1,31 @@
+name: "🚜 Code refactoring"
+description: Suggest something that needs to be refactored.
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: "Refactor Request"
+      description: Is your refactor request related to a problem?
+      placeholder: |
+        A clear and concise description of what the problem is.
+        Ex. I'm having problems reading the code because...
+      value: N/A
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: If you have a solution in mind, please describe it.
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Additional context"
+      description: Add any other context about the problem here
+      value: N/A
+    validations:
+      required: false
