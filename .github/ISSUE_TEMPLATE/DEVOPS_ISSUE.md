@@ -1,6 +1,6 @@
 ---
 name: "🛠️ DevOps issue"
-description: Automation, CI/CD, GitHub Apps, etc.
+about: Automation, CI/CD, GitHub Apps, etc.
 labels: devops
 ---
 

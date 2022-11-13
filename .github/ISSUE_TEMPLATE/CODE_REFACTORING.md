@@ -1,6 +1,6 @@
 ---
 name: "🚜 Code refactoring"
-description: Suggest something that needs to be refactored.
+about: Suggest something that needs to be refactored.
 labels: enhancement
 ---
 
