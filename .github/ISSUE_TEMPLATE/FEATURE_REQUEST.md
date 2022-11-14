@@ -1,7 +1,7 @@
 ---
 name: "🚀 Feature request"
 about: Suggest an idea for this project.
-labels: enhancement, new
+labels: enhancement, request
 ---
 
 ## Feature Request
